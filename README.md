@@ -10,7 +10,7 @@ local whitelist = {
     "Arda1420",
     "Arda1420",
     "Arda1420",
-    "h3lln3d",
+    "itsh0r",
     "Arda1420",
     "Arda1420",
     "tpsciawain",
