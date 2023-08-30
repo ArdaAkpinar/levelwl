@@ -4,9 +4,9 @@ local whitelist = {
     "Arda1420",
     "Tpsciawain", --me
     "Arda1420",
-    "Arda1420",
+    "Buluto31",
     "qazztr",
-    "Arda1420",
+    "thegorkemalfa",
     "Arda1420",
     "Arda1420",
     "scriptdenemetps",
