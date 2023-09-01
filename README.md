@@ -4,12 +4,12 @@ local whitelist = {
     "252531_werza",
     "Tpsciawain", --me
     "madridhayatimolmus", --1 hafta
-    "Buluto31",
+    "arda",
     "qazztr",
-    "thegorkemalfa",
+    "arda",
     "Alexnimo2022",
     "ablanidelim",
-    "scriptdenemetps",
+    "azemessi3a",
     "itsh0r",
     "2525israfil",
     "Zzz_tps2",
