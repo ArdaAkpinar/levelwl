@@ -3,7 +3,7 @@ local whitelist = {
     "Arda1420",
     "252531_werza",
     "Tpsciawain", --me
-    "madridhayatimolmus", --1 hafta
+    "amacsizahmet5", 
     "arda",
     "qazztr",
     "31cihasanxd",
