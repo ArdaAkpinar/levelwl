@@ -4,7 +4,7 @@ local whitelist = {
     "252531_werza",
     "Tpsciawain", --me
     "arda", 
-    "amacsizahmet5",
+    "AmacsizAhmet5",
     "qazztr",
     "31cihasanxd",
     "Alexnimo2022",
