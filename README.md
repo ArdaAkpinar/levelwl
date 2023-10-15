@@ -10,7 +10,7 @@ local whitelist = {
     "Alexnimo2022",
     "ablanidelim",
     "azemessi3a",
-    "itsh0r",
+    "ARDAEda1",
     "2525israfil",
     "Zzz_tps2",
     "tpsciawain",
